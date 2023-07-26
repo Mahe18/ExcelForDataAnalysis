@@ -34,7 +34,7 @@ This repository showcases a variety of data analysis techniques using Microsoft 
 
 ## Acknowledgements
 
-Special thanks to [Kyle Pew](https://www.udemy.com/user/kylepew/) for his course ["Microsoft Excel - Excel from Beginner to Advanced"](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/). This course was instrumental in my learning journey, providing an in-depth understanding of advanced Excel skills.
+Special thanks to [Kyle Pew](https://www.udemy.com/user/kyle-pew/) for his course ["Microsoft Excel - Excel from Beginner to Advanced"](https://www.udemy.com/course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/). This course was instrumental in my learning journey, providing an in-depth understanding of advanced Excel skills.
 
 ## Files in this Repository
 
